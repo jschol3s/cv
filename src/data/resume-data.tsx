@@ -37,10 +37,16 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Utah Valley University",
+      degree: "AS in Computer Science",
+      start: "2018",
+      end: "2020",
+    },
+    {
+      school: "Utah Valley University",
       degree:
         "BS in Computer Science with a Full Stack Web Development Emphasis",
       start: "2018",
-      end: "2023",
+      end: "Current",
     },
   ],
   work: [
