@@ -54,7 +54,7 @@ export const RESUME_DATA = {
       company: "CoFi",
       link: "https://www.cofilending.com/",
       badges: [],
-      title: "Full Stack Developer",
+      title: "Senior Full Stack Developer",
       start: "2022",
       end: "Current",
       description: (
