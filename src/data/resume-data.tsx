@@ -11,7 +11,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Lehi",
   about: "Full Stack Developer",
   summary:
-    "As a Full Stack Developer I have worked on all aspects of multiple applications from setting up the CI/CD pipeline to creating the UI/UX. I have worked at smaller companies so far where I've worn many hats and gained a lot of experience. I enjoy the craft of software development and am always looking to improve.",
+    "As a Full Stack Developer, I have worked on all aspects of multiple applications, from setting up the CI/CD pipeline to creating UI component libraries. I have gained extensive experience by working at smaller companies, where I've had the opportunity to wear many hats. I am passionate about the craft of development and continually strive to improve.",
   avatarUrl: "https://avatars.githubusercontent.com/u/56044962?v=4",
   personalWebsiteUrl: "https://jadonscholes.com",
   contact: {
@@ -67,17 +67,18 @@ export const RESUME_DATA = {
           </p>
           <br />
           <p>
-            Worked with React to build various web applications. Led the
+            Worked with React to build multiple web applications. Led the
             development of a custom component library for use across
-            applications as a private npm package.
+            applications as a private npm package. Was the team lead for
+            numerous front-end features.
           </p>
           <br />
           <p>
             Took charge of organizing and guiding developers for successful
-            feature delivery. Advocated for the adoption of the latest
-            development tools, leading initiatives such as the migration from
-            create-react-app to Vite, transitioning from JavaScript to
-            TypeScript, and moving from MS SQL Server to Postgres.
+            feature delivery. Advocated for adopting the latest development
+            tools, leading initiatives such as migrating from create-react-app
+            to Vite, transitioning from JavaScript to TypeScript, and using more
+            accessible UI libraries such as radix-ui.
           </p>
         </span>
       ),
@@ -92,9 +93,9 @@ export const RESUME_DATA = {
       description: (
         <span>
           <p>
-            Collaborated with a team to develop and oversee applications for the
-            sales department, including a React Native mobile app and a NextJS
-            website.
+            Worked with a team to create and manage multiple applications for
+            the sales department including a mobile application in React Native
+            and a website in NextJS.
           </p>
           <br />
           <p>
@@ -131,5 +132,11 @@ export const RESUME_DATA = {
     "Architectural Design",
     "UI/UX Design",
     "Team Leadership",
+    "ORMs",
+    "React Query",
+    "Tailwind CSS",
+    "React Router",
+    "Vite",
+    "Radix UI",
   ],
 } as const;
